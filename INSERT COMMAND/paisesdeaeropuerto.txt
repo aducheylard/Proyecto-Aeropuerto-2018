@@ -1,0 +1,3691 @@
+BIN	Afghanistan
+BPM	Afghanistan
+BST	Afghanistan
+CCN	Afghanistan
+DAZ	Afghanistan
+FAH	Afghanistan
+FBD	Afghanistan
+GRG	Afghanistan
+GZI	Afghanistan
+HEA	Afghanistan
+IMZ	Afghanistan
+JAA	Afghanistan
+AAE	Algeria
+ALG	Algeria
+AZR	Algeria
+BFW	Algeria
+BJA	Algeria
+BLJ	Algeria
+BMW	Algeria
+BSK	Algeria
+BUJ	Algeria
+CBH	Algeria
+CFK	Algeria
+CZL	Algeria
+DJG	Algeria
+ELG	Algeria
+ELU	Algeria
+GBB	Algeria
+GHA	Algeria
+GJL	Algeria
+HME	Algeria
+HRM	Algeria
+IAM	Algeria
+INF	Algeria
+INZ	Algeria
+FTI	American Samoa
+ALV	Andorra
+ANL	Angola
+ARZ	Angola
+AZZ	Angola
+BUG	Angola
+CAB	Angola
+CAV	Angola
+CBT	Angola
+CEO	Angola
+CFF	Angola
+CNZ	Angola
+CTI	Angola
+DRC	Angola
+DUE	Angola
+GGC	Angola
+GXG	Angola
+JMB	Angola
+AXA	Anguilla
+ANU	Antigua and Barbuda
+BBQ	Antigua and Barbuda
+AEP	Argentina
+AFA	Argentina
+AOL	Argentina
+APZ	Argentina
+ARR	Argentina
+BHI	Argentina
+BRC	Argentina
+CCT	Argentina
+CLX	Argentina
+CNQ	Argentina
+CNT	Argentina
+COC	Argentina
+COR	Argentina
+CPC	Argentina
+CPG	Argentina
+CRD	Argentina
+CRR	Argentina
+CTC	Argentina
+CUT	Argentina
+CVH	Argentina
+CVI	Argentina
+EHL	Argentina
+ELO	Argentina
+EMX	Argentina
+EPA	Argentina
+EQS	Argentina
+EZE	Argentina
+FMA	Argentina
+FTE	Argentina
+GGS	Argentina
+GHU	Argentina
+GNR	Argentina
+GPO	Argentina
+HOS	Argentina
+IGB	Argentina
+IGR	Argentina
+ING	Argentina
+IRJ	Argentina
+JNI	Argentina
+JSM	Argentina
+JUJ	Argentina
+EVN	Armenia
+AUA	Aruba
+AAB	Australia
+ABG	Australia
+ABH	Australia
+ABM	Australia
+ADL	Australia
+ADO	Australia
+AGW	Australia
+AGY	Australia
+ALH	Australia
+AMT	Australia
+AMX	Australia
+ANZ	Australia
+ARM	Australia
+ARY	Australia
+ASP	Australia
+AUD	Australia
+AUU	Australia
+AVG	Australia
+AVV	Australia
+AWN	Australia
+AWP	Australia
+AXC	Australia
+AXL	Australia
+AYD	Australia
+AYL	Australia
+AYQ	Australia
+AYR	Australia
+BBE	Australia
+BCI	Australia
+BCK	Australia
+BCZ	Australia
+BDB	Australia
+BDD	Australia
+BDW	Australia
+BEE	Australia
+BEO	Australia
+BEU	Australia
+BFC	Australia
+BHQ	Australia
+BHS	Australia
+BHT	Australia
+BIP	Australia
+BIW	Australia
+BKP	Australia
+BKQ	Australia
+BLN	Australia
+BLS	Australia
+BLT	Australia
+BME	Australia
+BMP	Australia
+BNE	Australia
+BNK	Australia
+BOX	Australia
+BQB	Australia
+BQL	Australia
+BQW	Australia
+BRJ	Australia
+BRK	Australia
+BRT	Australia
+BSJ	Australia
+BTD	Australia
+BTX	Australia
+BUC	Australia
+BUY	Australia
+BVI	Australia
+BVW	Australia
+BVX	Australia
+BVZ	Australia
+BWB	Australia
+BWQ	Australia
+BWT	Australia
+BWU	Australia
+BYX	Australia
+BZD	Australia
+BZP	Australia
+CAZ	Australia
+CBC	Australia
+CBI	Australia
+CBR	Australia
+CBX	Australia
+CBY	Australia
+CCL	Australia
+CCW	Australia
+CDA	Australia
+CDQ	Australia
+CDU	Australia
+CED	Australia
+CES	Australia
+CFH	Australia
+CFI	Australia
+CFP	Australia
+CFS	Australia
+CGV	Australia
+CIE	Australia
+CKI	Australia
+CLH	Australia
+CMA	Australia
+CMD	Australia
+CML	Australia
+CMQ	Australia
+CNB	Australia
+CNC	Australia
+CNJ	Australia
+CNS	Australia
+COB	Australia
+COJ	Australia
+COY	Australia
+CPD	Australia
+CQP	Australia
+CRB	Australia
+CRH	Australia
+CRJ	Australia
+CRY	Australia
+CSD	Australia
+CSI	Australia
+CTL	Australia
+CTN	Australia
+CTR	Australia
+CUD	Australia
+CUG	Australia
+CUQ	Australia
+CUY	Australia
+CVC	Australia
+CVQ	Australia
+CWR	Australia
+CWT	Australia
+CWW	Australia
+CXQ	Australia
+CXT	Australia
+CYG	Australia
+CZY	Australia
+DAJ	Australia
+DBO	Australia
+DBY	Australia
+DDI	Australia
+DFP	Australia
+DGD	Australia
+DGE	Australia
+DHD	Australia
+DKI	Australia
+DKV	Australia
+DLK	Australia
+DLV	Australia
+DMD	Australia
+DNB	Australia
+DNG	Australia
+DNM	Australia
+DNO	Australia
+DON	Australia
+DOX	Australia
+DPO	Australia
+DRB	Australia
+DRD	Australia
+DRN	Australia
+DRR	Australia
+DRW	Australia
+DRY	Australia
+DVP	Australia
+DVR	Australia
+DXD	Australia
+DYA	Australia
+DYL	Australia
+DYM	Australia
+DYW	Australia
+ECH	Australia
+EDD	Australia
+EDR	Australia
+EIH	Australia
+EKD	Australia
+ELC	Australia
+EMD	Australia
+ENB	Australia
+EPR	Australia
+ERB	Australia
+ETD	Australia
+EUC	Australia
+EVH	Australia
+EVO	Australia
+EXM	Australia
+FIK	Australia
+FIZ	Australia
+FLC	Australia
+FLP	Australia
+FLS	Australia
+FLY	Australia
+FOS	Australia
+FOT	Australia
+FRB	Australia
+FSL	Australia
+FVL	Australia
+FVR	Australia
+GAH	Australia
+GBL	Australia
+GBP	Australia
+GBV	Australia
+GDD	Australia
+GEE	Australia
+GET	Australia
+GEX	Australia
+GFE	Australia
+GFF	Australia
+GFN	Australia
+GGD	Australia
+GIC	Australia
+GKL	Australia
+GLG	Australia
+GLI	Australia
+GLM	Australia
+GLT	Australia
+GLY	Australia
+GOO	Australia
+GOS	Australia
+GOV	Australia
+GPN	Australia
+GSC	Australia
+GSN	Australia
+GTE	Australia
+GTS	Australia
+GTT	Australia
+GUH	Australia
+GUL	Australia
+GVP	Australia
+GYL	Australia
+GYP	Australia
+HAP	Australia
+HAT	Australia
+HBA	Australia
+HCQ	Australia
+HGD	Australia
+HID	Australia
+HIG	Australia
+HIH	Australia
+HIP	Australia
+HIS	Australia
+HLL	Australia
+HLS	Australia
+HLT	Australia
+HLV	Australia
+HMG	Australia
+HNK	Australia
+HOK	Australia
+HPE	Australia
+HRN	Australia
+HRY	Australia
+HSM	Australia
+HTI	Australia
+HTU	Australia
+HUB	Australia
+HVB	Australia
+HWK	Australia
+HXX	Australia
+IDK	Australia
+IFF	Australia
+IFL	Australia
+IGH	Australia
+IKP	Australia
+INJ	Australia
+INM	Australia
+IRG	Australia
+ISA	Australia
+ISI	Australia
+ITP	Australia
+IVR	Australia
+IVW	Australia
+IWH	Australia
+JAB	Australia
+JAD	Australia
+JCK	Australia
+JFM	Australia
+JHQ	Australia
+JUN	Australia
+JUR	Australia
+ANT	Austria
+GRZ	Austria
+HOH	Austria
+INN	Austria
+BAK	Azerbaijan
+EVL	Azerbaijan
+GYD	Azerbaijan
+ASD	Bahamas
+ATC	Bahamas
+AXP	Bahamas
+BIM	Bahamas
+CAT	Bahamas
+CCZ	Bahamas
+CEL	Bahamas
+COX	Bahamas
+CRI	Bahamas
+CXY	Bahamas
+DCT	Bahamas
+ELH	Bahamas
+FPO	Bahamas
+GBI	Bahamas
+GGT	Bahamas
+GHB	Bahamas
+GHC	Bahamas
+GTC	Bahamas
+HBI	Bahamas
+IGA	Bahamas
+BAH	Bahrain
+BZL	Bangladesh
+CGP	Bangladesh
+CLA	Bangladesh
+CXB	Bangladesh
+DAC	Bangladesh
+IRD	Bangladesh
+JSR	Bangladesh
+BGI	Barbados
+BQT	Belarus
+GME	Belarus
+GNA	Belarus
+ANR	Belgium
+BRU	Belgium
+CRL	Belgium
+GNE	Belgium
+BCV	Belize
+BGK	Belize
+BZE	Belize
+CUK	Belize
+CYC	Belize
+CZH	Belize
+DGA	Belize
+INB	Belize
+COO	Benin
+DJA	Benin
+GID	Benin
+BDA	Bermuda
+APB	Bolivia
+ASC	Bolivia
+BJO	Bolivia
+BVK	Bolivia
+BVL	Bolivia
+BYC	Bolivia
+CAM	Bolivia
+CBB	Bolivia
+CEP	Bolivia
+CIJ	Bolivia
+GYA	Bolivia
+BNX	Bosnia Hercegovina
+BBK	Botswana
+FRW	Botswana
+GBE	Botswana
+GNZ	Botswana
+HUK	Botswana
+JWA	Botswana
+AAG	Brazil
+AAI	Brazil
+AAX	Brazil
+AFL	Brazil
+AIF	Brazil
+AIR	Brazil
+AJU	Brazil
+ALQ	Brazil
+ALT	Brazil
+AMJ	Brazil
+APQ	Brazil
+APS	Brazil
+APU	Brazil
+APX	Brazil
+APY	Brazil
+AQA	Brazil
+AQM	Brazil
+ARS	Brazil
+ARU	Brazil
+ATM	Brazil
+AUB	Brazil
+AUX	Brazil
+AXE	Brazil
+BAT	Brazil
+BAU	Brazil
+BAZ	Brazil
+BCR	Brazil
+BDC	Brazil
+BEL	Brazil
+BFH	Brazil
+BGV	Brazil
+BGX	Brazil
+BJP	Brazil
+BMS	Brazil
+BNU	Brazil
+BPG	Brazil
+BPS	Brazil
+BQQ	Brazil
+BRA	Brazil
+BRB	Brazil
+BSB	Brazil
+BSS	Brazil
+BVB	Brazil
+BVH	Brazil
+BVM	Brazil
+BVS	Brazil
+BZC	Brazil
+CAC	Brazil
+CAF	Brazil
+CAU	Brazil
+CAW	Brazil
+CBW	Brazil
+CCI	Brazil
+CCM	Brazil
+CCQ	Brazil
+CCX	Brazil
+CDI	Brazil
+CDJ	Brazil
+CFC	Brazil
+CFO	Brazil
+CGB	Brazil
+CGH	Brazil
+CGR	Brazil
+CIZ	Brazil
+CKO	Brazil
+CKS	Brazil
+CLN	Brazil
+CLV	Brazil
+CMC	Brazil
+CMG	Brazil
+CMP	Brazil
+CMT	Brazil
+CNF	Brazil
+CNV	Brazil
+CPQ	Brazil
+CPU	Brazil
+CPV	Brazil
+CQA	Brazil
+CQS	Brazil
+CRQ	Brazil
+CSS	Brazil
+CSU	Brazil
+CSW	Brazil
+CTP	Brazil
+CTQ	Brazil
+CWB	Brazil
+CXJ	Brazil
+CZB	Brazil
+CZS	Brazil
+DIQ	Brazil
+DMT	Brazil
+DNO	Brazil
+DOU	Brazil
+ERM	Brazil
+ERN	Brazil
+ESI	Brazil
+FBE	Brazil
+FEC	Brazil
+FEJ	Brazil
+FEN	Brazil
+FLB	Brazil
+FLN	Brazil
+FOR	Brazil
+FRC	Brazil
+GDP	Brazil
+GEL	Brazil
+GIG	Brazil
+GJM	Brazil
+GMS	Brazil
+GNM	Brazil
+GPB	Brazil
+GRP	Brazil
+GRU	Brazil
+GUJ	Brazil
+GUZ	Brazil
+GVR	Brazil
+GYN	Brazil
+HRZ	Brazil
+IDO	Brazil
+IGU	Brazil
+IJU	Brazil
+ILB	Brazil
+IMP	Brazil
+IPG	Brazil
+IPN	Brazil
+IPU	Brazil
+IRE	Brazil
+ITA	Brazil
+ITB	Brazil
+ITE	Brazil
+ITI	Brazil
+ITJ	Brazil
+ITN	Brazil
+ITP	Brazil
+ITQ	Brazil
+ITR	Brazil
+JCB	Brazil
+JCM	Brazil
+JCR	Brazil
+JDF	Brazil
+JDO	Brazil
+JEQ	Brazil
+JIA	Brazil
+JLS	Brazil
+JNA	Brazil
+JOI	Brazil
+JPA	Brazil
+JPR	Brazil
+JRN	Brazil
+JTI	Brazil
+JUA	Brazil
+BWN	Brunei
+BOJ	Bulgaria
+GOZ	Bulgaria
+HKV	Bulgaria
+JAM	Bulgaria
+ARL	Burkina Faso
+BNR	Burkina Faso
+BOY	Burkina Faso
+DGU	Burkina Faso
+DIP	Burkina Faso
+DOR	Burkina Faso
+FNG	Burkina Faso
+BJM	Burundi
+BBM	Cambodia
+BVR	Cambodia
+BFX	Cameroon
+BLC	Cameroon
+BPC	Cameroon
+BTA	Cameroon
+DLA	Cameroon
+DSC	Cameroon
+EBW	Cameroon
+FOM	Cameroon
+GOU	Cameroon
+GXX	Cameroon
+AKV	Canada
+CFQ	Canada
+CJH	Canada
+CXH	Canada
+DAS	Canada
+DGF	Canada
+DUO	Canada
+GOW	Canada
+GSL	Canada
+ILF	Canada
+IUM	Canada
+JHL	Canada
+BVC	Cape Verde Islands
+CYB	Cayman Islands
+GCM	Cayman Islands
+AIG	Central African Republic
+BBT	Central African Republic
+BBY	Central African Republic
+BCF	Central African Republic
+BEM	Central African Republic
+BGF	Central African Republic
+BGU	Central African Republic
+BIV	Central African Republic
+BMF	Central African Republic
+BOP	Central African Republic
+BOZ	Central African Republic
+BSN	Central African Republic
+BTG	Central African Republic
+CRF	Central African Republic
+GDA	Central African Republic
+GDI	Central African Republic
+IMO	Central African Republic
+IRO	Central African Republic
+AEH	Chad
+AKM	Chad
+AMC	Chad
+AMO	Chad
+AOD	Chad
+ATV	Chad
+BKR	Chad
+FYT	Chad
+ANF	Chile
+ARI	Chile
+BBA	Chile
+BGG	Chile
+CCH	Chile
+CCP	Chile
+CJC	Chile
+CNR	Chile
+COW	Chile
+CPO	Chile
+ESR	Chile
+FFU	Chile
+FRT	Chile
+GXQ	Chile
+IPC	Chile
+IQQ	Chile
+AAT	China
+AKA	China
+AKU	China
+AOG	China
+AQG	China
+AYN	China
+BAV	China
+BFU	China
+BHY	China
+BPL	China
+BPX	China
+BSD	China
+CAN	China
+CGD	China
+CGO	China
+CGQ	China
+CHG	China
+CHW	China
+CIF	China
+CIH	China
+CKG	China
+CNI	China
+CSX	China
+CTU	China
+CZX	China
+DAT	China
+DAX	China
+DDG	China
+DGM	China
+DIG	China
+DLC	China
+DLU	China
+DNH	China
+DSN	China
+DYG	China
+DZU	China
+ENH	China
+ENY	China
+ERL	China
+FOC	China
+FUG	China
+FUO	China
+FYN	China
+GHN	China
+GOQ	China
+HAK	China
+HEK	China
+HET	China
+HFE	China
+HGH	China
+HLD	China
+HLH	China
+HMI	China
+HNY	China
+HRB	China
+HSC	China
+HSN	China
+HTN	China
+HUZ	China
+HYN	China
+HZG	China
+INC	China
+IQM	China
+IQN	China
+JDZ	China
+JGN	China
+JHG	China
+JHN	China
+JIL	China
+JIU	China
+JJN	China
+JMU	China
+JNG	China
+JNZ	China
+JUZ	China
+CCK	Cocos (Keeling) Islands
+ACD	Colombia
+ACL	Colombia
+ACM	Colombia
+ACR	Colombia
+ADN	Colombia
+ADZ	Colombia
+AFI	Colombia
+API	Colombia
+APO	Colombia
+ARF	Colombia
+ARO	Colombia
+ARQ	Colombia
+AUC	Colombia
+AXM	Colombia
+AYA	Colombia
+AYC	Colombia
+AYG	Colombia
+AYI	Colombia
+AZT	Colombia
+BAC	Colombia
+BAQ	Colombia
+BGA	Colombia
+BHF	Colombia
+BOG	Colombia
+BSC	Colombia
+BUN	Colombia
+CAQ	Colombia
+CCO	Colombia
+CIM	Colombia
+CJD	Colombia
+CLO	Colombia
+COG	Colombia
+CPB	Colombia
+CPL	Colombia
+CQT	Colombia
+CRC	Colombia
+CSR	Colombia
+CTG	Colombia
+CUC	Colombia
+CUI	Colombia
+CUO	Colombia
+CVE	Colombia
+CZU	Colombia
+EBG	Colombia
+ECO	Colombia
+ECR	Colombia
+EJA	Colombia
+ELB	Colombia
+ELJ	Colombia
+EOH	Colombia
+EUO	Colombia
+EYP	Colombia
+GAA	Colombia
+GCA	Colombia
+GGL	Colombia
+GIR	Colombia
+GMC	Colombia
+GPI	Colombia
+GRA	Colombia
+HRR	Colombia
+HTZ	Colombia
+IBE	Colombia
+IGO	Colombia
+IPI	Colombia
+ISE	Colombia
+IVO	Colombia
+JUO	Colombia
+AJN	Comoros
+HAH	Comoros
+ANJ	Congo
+BOE	Congo
+BTB	Congo
+BZV	Congo
+DIS	Congo
+DJM	Congo
+EPN	Congo
+EWO	Congo
+FTX	Congo
+GMM	Congo
+ION	Congo
+BAN	Congo, the Democratic Republic of
+BDT	Congo, the Democratic Republic of
+BDV	Congo, the Democratic Republic of
+BKY	Congo, the Democratic Republic of
+BMB	Congo, the Democratic Republic of
+BNB	Congo, The Democratic Republic of
+BNC	Congo, the Democratic Republic of
+BOA	Congo, the Democratic Republic of
+BSU	Congo, the Democratic Republic of
+BUX	Congo, the Democratic Republic of
+BZU	Congo, the Democratic Republic of
+DIC	Congo, the Democratic Republic of
+FBM	Congo, the Democratic Republic of
+FDU	Congo, The Democratic Republic of
+FIH	Congo, The Democratic Republic of
+FKI	Congo, The Democratic Republic of
+FMI	Congo, The Democratic Republic of
+GDJ	Congo, the Democratic Republic of
+GMA	Congo, The Democratic Republic of
+GOM	Congo, The Democratic Republic of
+IDF	Congo, the Democratic Republic of
+IKL	Congo, the Democratic Republic of
+INO	Congo, the Democratic Republic of
+IRP	Congo, the Democratic Republic of
+AIT	Cook Islands
+AIU	Cook Islands
+BAI	Costa Rica
+BCL	Costa Rica
+CSC	Costa Rica
+FMG	Costa Rica
+FON	Costa Rica
+GLF	Costa Rica
+GPL	Costa Rica
+JAP	Costa Rica
+ABJ	Cote D'Ivoire
+ABO	Cote D'Ivoire
+ASK	Cote D'Ivoire
+BBV	Cote D'Ivoire
+BDK	Cote D'Ivoire
+BQO	Cote D'Ivoire
+BRZ	Cote D'Ivoire
+BUU	Cote D'Ivoire
+BXI	Cote D'Ivoire
+BYK	Cote D'Ivoire
+DIM	Cote D'Ivoire
+DIV	Cote D'Ivoire
+DJO	Cote D'Ivoire
+DNC	Cote D'Ivoire
+FEK	Cote D'Ivoire
+GGN	Cote D'Ivoire
+GGO	Cote D'Ivoire
+HGO	Cote D'Ivoire
+BWK	Croatia
+DBV	Croatia
+AVI	Cuba
+BCA	Cuba
+BYM	Cuba
+CCC	Cuba
+CFG	Cuba
+CMW	Cuba
+CYO	Cuba
+GAO	Cuba
+GER	Cuba
+HAV	Cuba
+HOG	Cuba
+ICR	Cuba
+AKT	Cyprus
+ECN	Cyprus
+EPK	Cyprus
+GEC	Cyprus
+BRQ	Czech Republic
+GTW	Czech Republic
+AAL	Denmark
+AAR	Denmark
+BLL	Denmark
+BYR	Denmark
+CNL	Denmark
+CPH	Denmark
+EBJ	Denmark
+AII	Djibouti
+JIB	Djibouti
+DCF	Dominica
+DOM	Dominica
+AZS	Dominican Republic
+BRX	Dominican Republic
+CBJ	Dominican Republic
+COZ	Dominican Republic
+EPS	Dominican Republic
+HEX	Dominican Republic
+BCH	East Timor
+ATF	Ecuador
+BHA	Ecuador
+CUE	Ecuador
+ESM	Ecuador
+GPS	Ecuador
+GYE	Ecuador
+JIP	Ecuador
+AAC	Egypt
+ABS	Egypt
+ALY	Egypt
+ASW	Egypt
+ATZ	Egypt
+AUE	Egypt
+CAI	Egypt
+DAK	Egypt
+DBB	Egypt
+ELT	Egypt
+EMY	Egypt
+GSQ	Egypt
+HBE	Egypt
+HRG	Egypt
+BSG	Equatorial Guinea
+ASA	Eritrea
+ASM	Eritrea
+ABK	Ethiopia
+ADD	Ethiopia
+ALK	Ethiopia
+AMH	Ethiopia
+ASO	Ethiopia
+AWA	Ethiopia
+AWH	Ethiopia
+AXU	Ethiopia
+BCO	Ethiopia
+BCY	Ethiopia
+BEI	Ethiopia
+BJR	Ethiopia
+DBM	Ethiopia
+DBT	Ethiopia
+DEM	Ethiopia
+DGC	Ethiopia
+DIR	Ethiopia
+DSE	Ethiopia
+EGL	Ethiopia
+ETE	Ethiopia
+FNH	Ethiopia
+GDE	Ethiopia
+GDQ	Ethiopia
+GHD	Ethiopia
+GLC	Ethiopia
+GMB	Ethiopia
+GNN	Ethiopia
+GOB	Ethiopia
+GOR	Ethiopia
+HIL	Ethiopia
+HUE	Ethiopia
+JIJ	Ethiopia
+JIM	Ethiopia
+FAE	Faroe Islands
+AQS	Fiji
+BFJ	Fiji
+BVF	Fiji
+BXL	Fiji
+CST	Fiji
+ICI	Fiji
+ENF	Finland
+HEL	Finland
+HEM	Finland
+HYV	Finland
+IVL	Finland
+JOE	Finland
+JYV	Finland
+AGF	France
+AHZ	France
+AJA	France
+ANE	France
+ANG	France
+AUF	France
+AUR	France
+AVF	France
+AVN	France
+BAE	France
+BES	France
+BIA	France
+BIQ	France
+BOD	France
+BOR	France
+BOU	France
+BVA	France
+BVE	France
+BZR	France
+CCF	France
+CDG	France
+CEQ	France
+CER	France
+CET	France
+CFE	France
+CFR	France
+CHR	France
+CLY	France
+CMF	France
+CMR	France
+CNG	France
+CQF	France
+CSF	France
+CTT	France
+CVF	France
+DCM	France
+DIJ	France
+DLE	France
+DNR	France
+DOL	France
+DPE	France
+DXA	France
+EBU	France
+EDM	France
+EGC	France
+ENC	France
+EPL	France
+ETZ	France
+EVX	France
+FNI	France
+FRJ	France
+FSC	France
+GAT	France
+GFR	France
+GNB	France
+HZB	France
+IDY	France
+JAH	France
+JCA	France
+JDP	France
+JEV	France
+JLP	France
+JPU	France
+JSZ	France
+CAY	French Guiana
+AAA	French Polynesia
+AHE	French Polynesia
+APK	French Polynesia
+AUQ	French Polynesia
+AXR	French Polynesia
+BOB	French Polynesia
+FAC	French Polynesia
+FAV	French Polynesia
+FGU	French Polynesia
+FHZ	French Polynesia
+GMR	French Polynesia
+HHZ	French Polynesia
+HIX	French Polynesia
+HOI	French Polynesia
+HUH	French Polynesia
+AKE	Gabon
+AWE	Gabon
+BAW	Gabon
+BGB	Gabon
+BGP	Gabon
+BMM	Gabon
+FOU	Gabon
+GAX	Gabon
+GIM	Gabon
+GKO	Gabon
+IGE	Gabon
+BUS	Georgia
+AAH	Germany
+ADC	Germany
+AGB	Germany
+AGE	Germany
+BBH	Germany
+BBJ	Germany
+BFE	Germany
+BGN	Germany
+BMK	Germany
+BMR	Germany
+BNJ	Germany
+BRE	Germany
+BRV	Germany
+BWE	Germany
+BYU	Germany
+CBU	Germany
+CGN	Germany
+CSO	Germany
+DRS	Germany
+DTM	Germany
+DUI	Germany
+DUS	Germany
+EIB	Germany
+EME	Germany
+ERF	Germany
+ESS	Germany
+EUM	Germany
+FDH	Germany
+FEL	Germany
+FKB	Germany
+FLF	Germany
+FMO	Germany
+FNB	Germany
+FRA	Germany
+FRF	Germany
+FRZ	Germany
+GHF	Germany
+GKE	Germany
+GMY	Germany
+GTI	Germany
+GUT	Germany
+GWT	Germany
+GWW	Germany
+HAJ	Germany
+HAM	Germany
+HDB	Germany
+HDF	Germany
+HEI	Germany
+HGL	Germany
+HHN	Germany
+HOQ	Germany
+ILH	Germany
+JUI	Germany
+ACC	Ghana
+GIB	Gibraltar
+AGQ	Greece
+AOK	Greece
+ATH	Greece
+AXD	Greece
+CFU	Greece
+CHQ	Greece
+DRM	Greece
+EFL	Greece
+GPA	Greece
+HER	Greece
+HEW	Greece
+IOA	Greece
+JIK	Greece
+JKH	Greece
+JMK	Greece
+JNX	Greece
+JSH	Greece
+JSI	Greece
+JSY	Greece
+JTR	Greece
+JTY	Greece
+AGM	Greenland
+CNP	Greenland
+DUN	Greenland
+GOH	Greenland
+JAV	Greenland
+JCH	Greenland
+JEG	Greenland
+JFR	Greenland
+JGO	Greenland
+JGR	Greenland
+JHS	Greenland
+JJU	Greenland
+JNN	Greenland
+JNS	Greenland
+JOA	Greenland
+JRK	Greenland
+JSU	Greenland
+JUV	Greenland
+CRU	Grenada
+GND	Grenada
+BBR	Guadeloupe
+CCE	Guadeloupe
+DSD	Guadeloupe
+GBJ	Guadeloupe
+HTB	Guadeloupe
+IOA	Guadeloupe
+JSS	Guadeloupe
+GUM	Guam
+AAZ	Guatemala
+AQB	Guatemala
+CBV	Guatemala
+CIQ	Guatemala
+CMM	Guatemala
+CTF	Guatemala
+DON	Guatemala
+ENJ	Guatemala
+FRS	Guatemala
+GUA	Guatemala
+HUG	Guatemala
+BKJ	Guinea
+CKY	Guinea
+FAA	Guinea
+FIG	Guinea
+GII	Guinea
+BQE	Guinea Bissau
+AHL	Guyana
+BCG	Guyana
+BMJ	Guyana
+EKE	Guyana
+GEO	Guyana
+GFO	Guyana
+IMB	Guyana
+JSY	Guyana
+CAP	Haiti
+CYA	Haiti
+JAK	Haiti
+JEE	Haiti
+AHS	Honduras
+BHG	Honduras
+CAA	Honduras
+CDO	Honduras
+CYL	Honduras
+EDQ	Honduras
+ENQ	Honduras
+GAC	Honduras
+GJA	Honduras
+GUO	Honduras
+IRN	Honduras
+JUT	Honduras
+HHP	Hong Kong
+HKG	Hong Kong
+BUD	Hungary
+DEB	Hungary
+AEY	Iceland
+BGJ	Iceland
+BIU	Iceland
+BJD	Iceland
+BLO	Iceland
+BXV	Iceland
+DJU	Iceland
+EGS	Iceland
+FAG	Iceland
+FAS	Iceland
+FLI	Iceland
+GJR	Iceland
+GRY	Iceland
+GUU	Iceland
+HFN	Iceland
+HVK	Iceland
+HVM	Iceland
+HZK	Iceland
+IFJ	Iceland
+AGR	India
+AGX	India
+AJL	India
+AKD	India
+AMD	India
+ATQ	India
+BBI	India
+BDQ	India
+BEK	India
+BEP	India
+BHJ	India
+BHO	India
+BHU	India
+BKB	India
+BLR	India
+BOM	India
+BUP	India
+CBD	India
+CCJ	India
+CCU	India
+CDP	India
+CJB	India
+COH	India
+COK	India
+DAE	India
+DAI	India
+DBD	India
+DED	India
+DEL	India
+DEP	India
+DHM	India
+DIB	India
+DIU	India
+DMU	India
+GAU	India
+GAY	India
+GOI	India
+GOP	India
+GUX	India
+GWL	India
+HBX	India
+HJR	India
+HSS	India
+HYD	India
+IDR	India
+IMF	India
+ISK	India
+IXA	India
+IXB	India
+IXC	India
+IXD	India
+IXE	India
+IXG	India
+IXH	India
+IXI	India
+IXJ	India
+IXK	India
+IXL	India
+IXM	India
+IXN	India
+IXP	India
+IXQ	India
+IXR	India
+IXS	India
+IXT	India
+IXU	India
+IXV	India
+IXW	India
+IXY	India
+IXZ	India
+JAI	India
+JDH	India
+JGA	India
+JGB	India
+JLR	India
+JRH	India
+JSA	India
+AAS	Indonesia
+ABU	Indonesia
+AEG	Indonesia
+AGD	Indonesia
+AHI	Indonesia
+AKQ	Indonesia
+AMI	Indonesia
+AMQ	Indonesia
+ARD	Indonesia
+ARJ	Indonesia
+AUT	Indonesia
+AYW	Indonesia
+BDJ	Indonesia
+BDO	Indonesia
+BEJ	Indonesia
+BIK	Indonesia
+BJG	Indonesia
+BJK	Indonesia
+BJW	Indonesia
+BKS	Indonesia
+BMU	Indonesia
+BPN	Indonesia
+BTH	Indonesia
+BTJ	Indonesia
+BTW	Indonesia
+BUI	Indonesia
+BUW	Indonesia
+BXB	Indonesia
+BXD	Indonesia
+BXM	Indonesia
+BXT	Indonesia
+BYQ	Indonesia
+CBN	Indonesia
+CGK	Indonesia
+CPF	Indonesia
+CXP	Indonesia
+DIL	Indonesia
+DJB	Indonesia
+DJJ	Indonesia
+DOB	Indonesia
+DPS	Indonesia
+DRH	Indonesia
+DTD	Indonesia
+DUM	Indonesia
+ELR	Indonesia
+ENE	Indonesia
+EWE	Indonesia
+EWI	Indonesia
+FKQ	Indonesia
+FOO	Indonesia
+GAV	Indonesia
+GEB	Indonesia
+GLX	Indonesia
+GNS	Indonesia
+GTO	Indonesia
+HLP	Indonesia
+ILA	Indonesia
+INX	Indonesia
+IUL	Indonesia
+JOG	Indonesia
+ABD	Iran
+ADU	Iran
+AFZ	Iran
+AWZ	Iran
+AZD	Iran
+BBL	Iran
+BDH	Iran
+BJB	Iran
+BND	Iran
+BUZ	Iran
+BXR	Iran
+CKT	Iran
+GSM	Iran
+HDM	Iran
+IAQ	Iran
+IFN	Iran
+IKA	Iran
+BGW	Iraq
+BMN	Iraq
+BSR	Iraq
+EBL	Iraq
+BLY	Ireland
+BYT	Ireland
+CFN	Ireland
+CHE	Ireland
+CLB	Ireland
+DUB	Ireland
+GWY	Ireland
+IIA	Ireland
+INQ	Ireland
+IOR	Ireland
+BEV	Israel
+EIY	Israel
+ETH	Israel
+GHK	Israel
+HFA	Israel
+AHO	Italy
+ALL	Italy
+AOI	Italy
+AOT	Italy
+AVB	Italy
+BDS	Italy
+BGY	Italy
+BLQ	Italy
+BLX	Italy
+BRI	Italy
+BZO	Italy
+CAG	Italy
+CDF	Italy
+CIA	Italy
+CIY	Italy
+CRV	Italy
+CTA	Italy
+CUF	Italy
+DCI	Italy
+EBA	Italy
+FCO	Italy
+FLR	Italy
+FOG	Italy
+FRL	Italy
+GBN	Italy
+GOA	Italy
+GRS	Italy
+ISH	Italy
+JLO	Italy
+AGJ	Japan
+AHA	Japan
+AKJ	Japan
+AOJ	Japan
+ASJ	Japan
+AXT	Japan
+BPU	Japan
+CTS	Japan
+DNA	Japan
+FKJ	Japan
+FKS	Japan
+FUJ	Japan
+FUK	Japan
+GAJ	Japan
+HAC	Japan
+HHE	Japan
+HIJ	Japan
+HIW	Japan
+HKD	Japan
+HNA	Japan
+HND	Japan
+HSG	Japan
+HTR	Japan
+IBR	Japan
+IEJ	Japan
+IHA	Japan
+IIN	Japan
+IKI	Japan
+ISG	Japan
+ITM	Japan
+IWA	Japan
+IWJ	Japan
+IWO	Japan
+IZO	Japan
+ADJ	Jordan
+AMM	Jordan
+AQJ	Jordan
+AKX	Kazakhstan
+ALA	Kazakhstan
+ATX	Kazakhstan
+AYK	Kazakhstan
+BXH	Kazakhstan
+BXJ	Kazakhstan
+CIT	Kazakhstan
+DMB	Kazakhstan
+DZN	Kazakhstan
+EKB	Kazakhstan
+GUW	Kazakhstan
+HRC	Kazakhstan
+ASV	Kenya
+BMQ	Kenya
+EDL	Kenya
+EYS	Kenya
+FER	Kenya
+GAS	Kenya
+HOA	Kenya
+ILU	Kenya
+AAK	kiribati
+ABF	kiribati
+AEA	kiribati
+AIS	kiribati
+BBG	kiribati
+BEZ	kiribati
+CIS	kiribati
+CXI	kiribati
+FNJ	Korea, Democratic People's Republic of
+CHF	Korea, Republic of
+CHN	Korea, Republic of
+CJJ	Korea, Republic of
+CJU	Korea, Republic of
+GMP	Korea, Republic of
+HIN	Korea, Republic of
+ICN	Korea, Republic of
+JCJ	Korea, Republic of
+JCN	Korea, Republic of
+JGE	Korea, Republic of
+JSP	Korea, Republic of
+FRU	Kyrgyzstan
+AOU	Lao People's Democratic Republic
+HOE	Lao People's Democratic Republic
+DGP	Latvia
+BEY	Lebanon
+BYL	Liberia
+CPA	Liberia
+FOY	Liberia
+GRC	Liberia
+AKF	Libyan Arab Jamahiriya
+BCQ	Libyan Arab Jamahiriya
+BEN	Libyan Arab Jamahiriya
+DNP	Libyan Arab Jamahiriya
+GHT	Libyan Arab Jamahiriya
+HUQ	Libyan Arab Jamahiriya
+HLJ	Lithuania
+AHY	Madagascar
+AMB	Madagascar
+AMP	Madagascar
+AMY	Madagascar
+ANM	Madagascar
+ATJ	Madagascar
+BKU	Madagascar
+BMD	Madagascar
+BPY	Madagascar
+BSV	Madagascar
+BZM	Madagascar
+DIE	Madagascar
+DOA	Madagascar
+DWB	Madagascar
+FTU	Madagascar
+HVA	Madagascar
+IHO	Madagascar
+ILK	Madagascar
+IVA	Madagascar
+JVA	Madagascar
+BLZ	Malawi
+CEH	Malawi
+CMK	Malawi
+DWA	Malawi
+AOR	Malaysia
+BBN	Malaysia
+BKI	Malaysia
+BKM	Malaysia
+BLG	Malaysia
+BSE	Malaysia
+BTU	Malaysia
+BWH	Malaysia
+GSA	Malaysia
+GTK	Malaysia
+IPH	Malaysia
+JHB	Malaysia
+GAN	Maldives
+HAQ	Maldives
+BKO	Mali
+EYL	Mali
+GAQ	Mali
+GUD	Mali
+GZM	Malta
+JCO	Malta
+AIC	Marshall Islands
+AIM	Marshall Islands
+AIP	Marshall Islands
+AMR	Marshall Islands
+AUL	Marshall Islands
+BII	Marshall Islands
+EBN	Marshall Islands
+EBO	Marshall Islands
+ENT	Marshall Islands
+IMI	Marshall Islands
+JAT	Marshall Islands
+JEJ	Marshall Islands
+FDF	Martinique
+AEO	Mauritania
+AJJ	Mauritania
+ATR	Mauritania
+BGH	Mauritania
+CGT	Mauritania
+EMN	Mauritania
+FGD	Mauritania
+DZA	Mayotte
+ACA	Mexico
+ACN	Mexico
+AGU	Mexico
+AJS	Mexico
+AZG	Mexico
+AZP	Mexico
+BHL	Mexico
+BJX	Mexico
+CEN	Mexico
+CJS	Mexico
+CJT	Mexico
+CLQ	Mexico
+CME	Mexico
+CNA	Mexico
+CPE	Mexico
+CTM	Mexico
+CUA	Mexico
+CUL	Mexico
+CUN	Mexico
+CUU	Mexico
+CVJ	Mexico
+CVM	Mexico
+CZA	Mexico
+CZM	Mexico
+DGO	Mexico
+ESE	Mexico
+GDL	Mexico
+GUB	Mexico
+GYM	Mexico
+HMO	Mexico
+HUX	Mexico
+ISJ	Mexico
+IZT	Mexico
+JAL	Mexico
+BZY	Moldova, Republic of
+AVK	Mongolia
+BYN	Mongolia
+COQ	Mongolia
+DLZ	Mongolia
+ERT	Mongolia
+HJT	Mongolia
+HVD	Mongolia
+HNO	Montenegro
+INI	Montenegro
+IVG	Montenegro
+AGA	Morocco
+AHU	Morocco
+CAS	Morocco
+CMN	Morocco
+ERH	Morocco
+ESU	Morocco
+EUN	Morocco
+FEZ	Morocco
+GLN	Morocco
+AME	Mozambique
+ANO	Mozambique
+APL	Mozambique
+BCW	Mozambique
+BEW	Mozambique
+BJN	Mozambique
+BZB	Mozambique
+CMZ	Mozambique
+FXO	Mozambique
+IBO	Mozambique
+IMG	Mozambique
+INE	Mozambique
+INH	Mozambique
+AKY	Myanmar
+BMO	Myanmar
+BPE	Myanmar
+BSX	Myanmar
+GAW	Myanmar
+GWA	Myanmar
+HEB	Myanmar
+HEH	Myanmar
+HOX	Myanmar
+DDL	n/a
+DPC	n/a
+IAT	n/a
+ADI	Namibia
+AIW	Namibia
+BQI	Namibia
+ERS	Namibia
+GFY	Namibia
+GOG	Namibia
+HAL	Namibia
+INU	Nauru
+BDP	Nepal
+BGL	Nepal
+BHP	Nepal
+BHR	Nepal
+BIR	Nepal
+BIT	Nepal
+BJH	Nepal
+BJU	Nepal
+BWA	Nepal
+DAP	Nepal
+DHI	Nepal
+DNP	Nepal
+DOP	Nepal
+FEB	Nepal
+GKH	Nepal
+HRJ	Nepal
+IMK	Nepal
+JIR	Nepal
+JKR	Nepal
+JMO	Nepal
+JUM	Nepal
+AMS	Netherlands
+DHR	Netherlands
+EIN	Netherlands
+ENS	Netherlands
+GLZ	Netherlands
+GRQ	Netherlands
+HAG	Netherlands
+BON	Netherlands Antilles
+CUR	Netherlands Antilles
+EUX	Netherlands Antilles
+BMY	New Caledonia
+GEA	New Caledonia
+HLU	New Caledonia
+HNG	New Caledonia
+ILP	New Caledonia
+IOU	New Caledonia
+AKL	New Zealand
+ALR	New Zealand
+AMZ	New Zealand
+ASG	New Zealand
+BHE	New Zealand
+CHC	New Zealand
+CHT	New Zealand
+CMV	New Zealand
+DGR	New Zealand
+DUD	New Zealand
+FGL	New Zealand
+GBS	New Zealand
+GBZ	New Zealand
+GIS	New Zealand
+GMN	New Zealand
+GTN	New Zealand
+HKK	New Zealand
+HLZ	New Zealand
+IVC	New Zealand
+BEF	Nicaragua
+BZA	Nicaragua
+AJY	Niger
+BKN	Niger
+ABV	Nigeria
+AKR	Nigeria
+BCU	Nigeria
+BNI	Nigeria
+CBQ	Nigeria
+DKA	Nigeria
+ENU	Nigeria
+GMO	Nigeria
+IBA	Nigeria
+ILR	Nigeria
+JOS	Nigeria
+IUE	Niue Island
+AES	Norway
+ALF	Norway
+ANX	Norway
+BDU	Norway
+BGO	Norway
+BJF	Norway
+BNN	Norway
+BOO	Norway
+BVG	Norway
+DLD	Norway
+EVE	Norway
+FAN	Norway
+FBU	Norway
+FDE	Norway
+FRO	Norway
+GLL	Norway
+HAA	Norway
+HAU	Norway
+HFT	Norway
+HMR	Norway
+HOV	Norway
+HRD	Norway
+HVG	Norway
+GZA	Occupied Palestinian Territory
+JRS	Occupied Palestinian Territory
+BYB	Oman
+AAW	Pakistan
+ATG	Pakistan
+BDN	Pakistan
+BHC	Pakistan
+BHV	Pakistan
+BHW	Pakistan
+BNP	Pakistan
+CHB	Pakistan
+CJL	Pakistan
+CWP	Pakistan
+DBA	Pakistan
+DDU	Pakistan
+DEA	Pakistan
+DSK	Pakistan
+GIL	Pakistan
+GRT	Pakistan
+GWD	Pakistan
+HDD	Pakistan
+HRA	Pakistan
+ISB	Pakistan
+JAG	Pakistan
+JIW	Pakistan
+ACU	Panama
+AIL	Panama
+AML	Panama
+BFQ	Panama
+BLB	Panama
+BOC	Panama
+CDE	Panama
+CHX	Panama
+CTD	Panama
+CTE	Panama
+CZJ	Panama
+DAV	Panama
+ELE	Panama
+GHE	Panama
+HOW	Panama
+JQE	Panama
+ABP	Papua New Guinea
+ABW	Papua New Guinea
+AEK	Papua New Guinea
+AFR	Papua New Guinea
+AGG	Papua New Guinea
+AGK	Papua New Guinea
+AGL	Papua New Guinea
+AIE	Papua New Guinea
+AKG	Papua New Guinea
+AMF	Papua New Guinea
+AMG	Papua New Guinea
+AMU	Papua New Guinea
+AOA	Papua New Guinea
+AOB	Papua New Guinea
+AON	Papua New Guinea
+APP	Papua New Guinea
+APR	Papua New Guinea
+ARP	Papua New Guinea
+ASZ	Papua New Guinea
+ATN	Papua New Guinea
+ATP	Papua New Guinea
+AUI	Papua New Guinea
+AUJ	Papua New Guinea
+AUP	Papua New Guinea
+AUV	Papua New Guinea
+AWB	Papua New Guinea
+AWR	Papua New Guinea
+AYU	Papua New Guinea
+AZB	Papua New Guinea
+BAA	Papua New Guinea
+BAJ	Papua New Guinea
+BAP	Papua New Guinea
+BCP	Papua New Guinea
+BDZ	Papua New Guinea
+BEA	Papua New Guinea
+BIJ	Papua New Guinea
+BIZ	Papua New Guinea
+BMH	Papua New Guinea
+BMZ	Papua New Guinea
+BNM	Papua New Guinea
+BNT	Papua New Guinea
+BNV	Papua New Guinea
+BNZ	Papua New Guinea
+BOQ	Papua New Guinea
+BOT	Papua New Guinea
+BOV	Papua New Guinea
+BPB	Papua New Guinea
+BPD	Papua New Guinea
+BRH	Papua New Guinea
+BRP	Papua New Guinea
+BSP	Papua New Guinea
+BUA	Papua New Guinea
+BUL	Papua New Guinea
+BVP	Papua New Guinea
+BWJ	Papua New Guinea
+BWP	Papua New Guinea
+BXZ	Papua New Guinea
+CGC	Papua New Guinea
+CMU	Papua New Guinea
+CPI	Papua New Guinea
+CPN	Papua New Guinea
+CVB	Papua New Guinea
+CVL	Papua New Guinea
+DAF	Papua New Guinea
+DAU	Papua New Guinea
+DBP	Papua New Guinea
+DDM	Papua New Guinea
+DER	Papua New Guinea
+DGG	Papua New Guinea
+DLB	Papua New Guinea
+DNU	Papua New Guinea
+DOI	Papua New Guinea
+DOO	Papua New Guinea
+DOS	Papua New Guinea
+DPU	Papua New Guinea
+EFG	Papua New Guinea
+EGA	Papua New Guinea
+EIA	Papua New Guinea
+EMI	Papua New Guinea
+EMO	Papua New Guinea
+EMS	Papua New Guinea
+EPT	Papua New Guinea
+ERE	Papua New Guinea
+ERU	Papua New Guinea
+ESA	Papua New Guinea
+FAQ	Papua New Guinea
+FIN	Papua New Guinea
+FNE	Papua New Guinea
+FRQ	Papua New Guinea
+FUB	Papua New Guinea
+FUM	Papua New Guinea
+GAP	Papua New Guinea
+GAR	Papua New Guinea
+GAZ	Papua New Guinea
+GBC	Papua New Guinea
+GBF	Papua New Guinea
+GEI	Papua New Guinea
+GEW	Papua New Guinea
+GKA	Papua New Guinea
+GLP	Papua New Guinea
+GMI	Papua New Guinea
+GOC	Papua New Guinea
+GOE	Papua New Guinea
+GRH	Papua New Guinea
+GRL	Papua New Guinea
+GUE	Papua New Guinea
+GUG	Papua New Guinea
+GUR	Papua New Guinea
+GUV	Papua New Guinea
+GVI	Papua New Guinea
+GWN	Papua New Guinea
+HAZ	Papua New Guinea
+HEO	Papua New Guinea
+HGU	Papua New Guinea
+HIT	Papua New Guinea
+HKN	Papua New Guinea
+HNI	Papua New Guinea
+HNN	Papua New Guinea
+HOC	Papua New Guinea
+HWA	Papua New Guinea
+HYF	Papua New Guinea
+IAU	Papua New Guinea
+IBI	Papua New Guinea
+IDN	Papua New Guinea
+IHU	Papua New Guinea
+IIS	Papua New Guinea
+ILX	Papua New Guinea
+IMA	Papua New Guinea
+IMD	Papua New Guinea
+IMN	Papua New Guinea
+IOK	Papua New Guinea
+IOP	Papua New Guinea
+ITK	Papua New Guinea
+IUS	Papua New Guinea
+JAQ	Papua New Guinea
+JOP	Papua New Guinea
+AGT	Paraguay
+ASU	Paraguay
+AYO	Paraguay
+CIO	Paraguay
+ENO	Paraguay
+ESG	Paraguay
+FLM	Paraguay
+ALD	Peru
+ANS	Peru
+APE	Peru
+AQP	Peru
+ATA	Peru
+ATG	Peru
+AYP	Peru
+BLP	Peru
+CHH	Peru
+CHM	Peru
+CIX	Peru
+CJA	Peru
+CUZ	Peru
+HUU	Peru
+IBP	Peru
+ILQ	Peru
+IQT	Peru
+JAU	Peru
+JJI	Peru
+JUL	Peru
+AAV	Philippines
+BAG	Philippines
+BCD	Philippines
+BNQ	Philippines
+BPH	Philippines
+BQA	Philippines
+BSO	Philippines
+BXU	Philippines
+CBO	Philippines
+CDY	Philippines
+CEB	Philippines
+CGG	Philippines
+CGM	Philippines
+CGY	Philippines
+CRK	Philippines
+CRM	Philippines
+CUJ	Philippines
+CYP	Philippines
+CYU	Philippines
+CYZ	Philippines
+DGT	Philippines
+DPL	Philippines
+DSG	Philippines
+DTE	Philippines
+DVO	Philippines
+ENI	Philippines
+GES	Philippines
+IGN	Philippines
+ILO	Philippines
+IPE	Philippines
+JOL	Philippines
+BZG	Poland
+CZW	Poland
+GDN	Poland
+IEG	Poland
+BGC	Portugal
+BGZ	Portugal
+CBP	Portugal
+CHV	Portugal
+COV	Portugal
+CVU	Portugal
+FAO	Portugal
+FLW	Portugal
+FNC	Portugal
+GRW	Portugal
+HOR	Portugal
+ARE	Puerto Rico
+BQN	Puerto Rico
+CPX	Puerto Rico
+DDP	Puerto Rico
+FAJ	Puerto Rico
+HUC	Puerto Rico
+DOH	Qatar
+IUD	Qatar
+ARW	Romania
+BAY	Romania
+BBU	Romania
+BCM	Romania
+CLJ	Romania
+CND	Romania
+CRA	Romania
+CSB	Romania
+DVA	Romania
+IAS	Romania
+AAQ	Russian Federation
+ABA	Russian Federation
+ACS	Russian Federation
+ADH	Russian Federation
+AER	Russian Federation
+AMV	Russian Federation
+ARH	Russian Federation
+ASF	Russian Federation
+BAX	Russian Federation
+BCX	Russian Federation
+BKA	Russian Federation
+BQS	Russian Federation
+BTK	Russian Federation
+BWO	Russian Federation
+BZK	Russian Federation
+CEE	Russian Federation
+CEK	Russian Federation
+CKH	Russian Federation
+CKL	Russian Federation
+CNN	Russian Federation
+CSY	Russian Federation
+CYX	Russian Federation
+DKS	Russian Federation
+DME	Russian Federation
+DYR	Russian Federation
+EGO	Russian Federation
+EIE	Russian Federation
+ESL	Russian Federation
+GDG	Russian Federation
+GDX	Russian Federation
+GDZ	Russian Federation
+GOJ	Russian Federation
+GRV	Russian Federation
+HTA	Russian Federation
+HTG	Russian Federation
+IAA	Russian Federation
+IAR	Russian Federation
+IJK	Russian Federation
+IKS	Russian Federation
+IKT	Russian Federation
+INA	Russian Federation
+IWA	Russian Federation
+JOK	Russian Federation
+JQF	Russian Federation
+JQO	Russian Federation
+BTQ	Rwanda
+GYI	Rwanda
+AAU	Samoa
+APW	Samoa
+FGI	Samoa
+ABT	Saudi Arabia
+AHB	Saudi Arabia
+AJF	Saudi Arabia
+AKH	Saudi Arabia
+AQI	Saudi Arabia
+BHH	Saudi Arabia
+DHA	Saudi Arabia
+DMM	Saudi Arabia
+DWD	Saudi Arabia
+EAM	Saudi Arabia
+EJH	Saudi Arabia
+ELQ	Saudi Arabia
+GIZ	Saudi Arabia
+HAS	Saudi Arabia
+HBT	Saudi Arabia
+HOF	Saudi Arabia
+JED	Saudi Arabia
+BXE	Senegal
+CSK	Senegal
+DKR	Senegal
+DSS	Senegal
+BEG	Serbia
+BJY	Serbia
+BDI	Seychelles
+DEI	Seychelles
+DES	Seychelles
+FRK	Seychelles
+BTE	Sierra Leone
+DSL	Sierra Leone
+FNA	Sierra Leone
+GBK	Sierra Leone
+HGS	Sierra Leone
+JMY	Sierra Leone
+BTS	Slovakia
+ILZ	Slovakia
+AFT	Solomon Islands
+AKS	Solomon Islands
+ANH	Solomon Islands
+ATD	Solomon Islands
+AVU	Solomon Islands
+BAS	Solomon Islands
+BNY	Solomon Islands
+BPF	Solomon Islands
+CHY	Solomon Islands
+EGM	Solomon Islands
+FRE	Solomon Islands
+GEF	Solomon Islands
+GSI	Solomon Islands
+GTA	Solomon Islands
+GZO	Solomon Islands
+HIR	Solomon Islands
+IRA	Solomon Islands
+ALU	Somalia
+BBO	Somalia
+BIB	Somalia
+BSA	Somalia
+BSY	Somalia
+BUO	Somalia
+BXX	Somalia
+CMO	Somalia
+CMS	Somalia
+CXN	Somalia
+DNI	Somalia
+ELF	Somalia
+ERA	Somalia
+GBM	Somalia
+GBU	Somalia
+GGR	Somalia
+GLK	Somalia
+GSR	Somalia
+GSU	Somalia
+HCM	Somalia
+HGA	Somalia
+AAM	South Africa
+ADY	South Africa
+AFD	South Africa
+AGZ	South Africa
+ALJ	South Africa
+BFN	South Africa
+BIY	South Africa
+CDO	South Africa
+CPT	South Africa
+DUK	South Africa
+DUR	South Africa
+ELL	South Africa
+ELS	South Africa
+EMG	South Africa
+FCB	South Africa
+GCJ	South Africa
+GIY	South Africa
+GRJ	South Africa
+GSS	South Africa
+HBL	South Africa
+HCS	South Africa
+HDS	South Africa
+HIC	South Africa
+HLA	South Africa
+HLW	South Africa
+HPR	South Africa
+HRS	South Africa
+HZV	South Africa
+INY	South Africa
+JNB	South Africa
+JOH	South Africa
+ABC	Spain
+ACE	Spain
+AGP	Spain
+ALC	Spain
+BCN	Spain
+BIO	Spain
+BJZ	Spain
+EAS	Spain
+EEL	Spain
+FUE	Spain
+GMZ	Spain
+GRO	Spain
+GRX	Spain
+IBZ	Spain
+ILD	Spain
+JCU	Spain
+ADP	Sri Lanka
+BTC	Sri Lanka
+CMB	Sri Lanka
+GOY	Sri Lanka
+JAF	Sri Lanka
+ASI	Saint Helena
+FSP	Saint Pierre and Miquelon
+BQU	Saint Vincent and Grenadines
+CIW	Saint Vincent and Grenadines
+AAD	Sudan
+ATB	Sudan
+DNX	Sudan
+DOG	Sudan
+EBD	Sudan
+EDB	Sudan
+EGN	Sudan
+JUB	Sudan
+AAJ	Suriname
+ABN	Suriname
+AGI	Suriname
+BTO	Suriname
+DOE	Suriname
+DRJ	Suriname
+ICK	Suriname
+AGH	Sweden
+AJR	Sweden
+ARN	Sweden
+BLE	Sweden
+BMA	Sweden
+EKT	Sweden
+EVG	Sweden
+GEV	Sweden
+GOT	Sweden
+GSE	Sweden
+GVX	Sweden
+HAD	Sweden
+HFS	Sweden
+HLF	Sweden
+HMA	Sweden
+HMV	Sweden
+HUV	Sweden
+IDB	Sweden
+JHE	Sweden
+JKG	Sweden
+JLD	Sweden
+JMM	Sweden
+JSO	Sweden
+ACH	Switzerland
+ACO	Switzerland
+BRN	Switzerland
+BSL	Switzerland
+EML	Switzerland
+GVA	Switzerland
+ALP	Syrian Arab Republic
+DAM	Syrian Arab Republic
+DEZ	Syrian Arab Republic
+CMJ	Taiwan
+CYI	Taiwan
+GNI	Taiwan
+HCN	Taiwan
+HSZ	Taiwan
+HUN	Taiwan
+DYU	Tajikistan
+ARK	Tanzania
+BKZ	Tanzania
+DAR	Tanzania
+DOD	Tanzania
+GIT	Tanzania
+IRI	Tanzania
+JOM	Tanzania
+JRO	Tanzania
+BAO	Thailand
+BFV	Thailand
+BKK	Thailand
+CEI	Thailand
+CJM	Thailand
+CNX	Thailand
+DMK	Thailand
+HDY	Thailand
+HGN	Thailand
+HHQ	Thailand
+HKT	Thailand
+BJL	The Gambia
+EUA	Tonga
+HPA	Tonga
+DJE	Tunisia
+EBM	Tunisia
+GAE	Tunisia
+GAF	Tunisia
+ADA	Turkey
+ADB	Turkey
+ADF	Turkey
+AFY	Turkey
+AJI	Turkey
+ANK	Turkey
+ASR	Turkey
+AYT	Turkey
+BAL	Turkey
+BDM	Turkey
+BJV	Turkey
+BTZ	Turkey
+BXN	Turkey
+BZI	Turkey
+CKZ	Turkey
+DIY	Turkey
+DLM	Turkey
+DNZ	Turkey
+EDO	Turkey
+ERC	Turkey
+ERZ	Turkey
+ESB	Turkey
+ESK	Turkey
+EZS	Turkey
+GZT	Turkey
+IGI	Turkey
+ISE	Turkey
+IST	Turkey
+ASB	Turkmenistan
+CRZ	Turkmenistan
+GDT	Turks and Caicos Islands
+FUN	Tuvalu
+EBB	Uganda
+JIN	Uganda
+CEJ	Ukraine
+CKC	Ukraine
+CWC	Ukraine
+DNK	Ukraine
+DOK	Ukraine
+ERD	Ukraine
+HMJ	Ukraine
+HRK	Ukraine
+IEV	Ukraine
+IFO	Ukraine
+AAN	United Arab Emirates
+AUH	United Arab Emirates
+AZI	United Arab Emirates
+DHF	United Arab Emirates
+DWC	United Arab Emirates
+DXB	United Arab Emirates
+FJR	United Arab Emirates
+ABB	United Kingdom
+ABZ	United Kingdom
+ACI	United Kingdom
+ADV	United Kingdom
+ADX	United Kingdom
+AYH	United Kingdom
+BBP	United Kingdom
+BBS	United Kingdom
+BEB	United Kingdom
+BEQ	United Kingdom
+BEX	United Kingdom
+BFC	United Kingdom
+BFS	United Kingdom
+BFZ	United Kingdom
+BHD	United Kingdom
+BHX	United Kingdom
+BLK	United Kingdom
+BOH	United Kingdom
+BOL	United Kingdom
+BQH	United Kingdom
+BRF	United Kingdom
+BRR	United Kingdom
+BRS	United Kingdom
+BSI	United Kingdom
+BUT	United Kingdom
+BWF	United Kingdom
+BWY	United Kingdom
+BZZ	United Kingdom
+CAL	United Kingdom
+CAX	United Kingdom
+CBG	United Kingdom
+CEG	United Kingdom
+CLF	United Kingdom
+COL	United Kingdom
+CRN	United Kingdom
+CSA	United Kingdom
+CVT	United Kingdom
+CWL	United Kingdom
+DCS	United Kingdom
+DND	United Kingdom
+DOC	United Kingdom
+DSA	United Kingdom
+EDI	United Kingdom
+EGD	United Kingdom
+EMA	United Kingdom
+ENK	United Kingdom
+EOI	United Kingdom
+ESH	United Kingdom
+ETR	United Kingdom
+EWY	United Kingdom
+EXT	United Kingdom
+FAB	United Kingdom
+FEA	United Kingdom
+FFD	United Kingdom
+FIE	United Kingdom
+FKH	United Kingdom
+FLH	United Kingdom
+FOA	United Kingdom
+FRK	United Kingdom
+FSS	United Kingdom
+FWM	United Kingdom
+FZO	United Kingdom
+GCI	United Kingdom
+GLA	United Kingdom
+GLO	United Kingdom
+GQJ	United Kingdom
+GSY	United Kingdom
+GXH	United Kingdom
+HAW	United Kingdom
+HEN	United Kingdom
+HLY	United Kingdom
+HOY	United Kingdom
+HRT	United Kingdom
+HTF	United Kingdom
+HUY	United Kingdom
+HYC	United Kingdom
+ILY	United Kingdom
+INV	United Kingdom
+IOM	United Kingdom
+IPW	United Kingdom
+ISC	United Kingdom
+JER	United Kingdom
+AAF	United States of America
+AAP	United States of America
+ABE	United States of America
+ABI	United States of America
+ABL	United States of America
+ABQ	United States of America
+ABR	United States of America
+ABX	United States of America
+ABY	United States of America
+ACB	United States of America
+ACK	United States of America
+ACT	United States of America
+ACV	United States of America
+ACY	United States of America
+ADG	United States of America
+ADK	United States of America
+ADM	United States of America
+ADQ	United States of America
+ADR	United States of America
+ADS	United States of America
+ADT	United States of America
+ADW	United States of America
+AED	United States of America
+AEL	United States of America
+AET	United States of America
+AEX	United States of America
+AFF	United States of America
+AFN	United States of America
+AFO	United States of America
+AFW	United States of America
+AGC	United States of America
+AGN	United States of America
+AGO	United States of America
+AGS	United States of America
+AHC	United States of America
+AHD	United States of America
+AHF	United States of America
+AHH	United States of America
+AHN	United States of America
+AHT	United States of America
+AIA	United States of America
+AIB	United States of America
+AID	United States of America
+AIK	United States of America
+AIN	United States of America
+AIO	United States of America
+AIV	United States of America
+AIY	United States of America
+AIZ	United States of America
+AKB	United States of America
+AKC	United States of America
+AKI	United States of America
+AKK	United States of America
+AKN	United States of America
+AKO	United States of America
+AKP	United States of America
+AKW	United States of America
+ALB	United States of America
+ALE	United States of America
+ALI	United States of America
+ALM	United States of America
+ALN	United States of America
+ALO	United States of America
+ALS	United States of America
+ALW	United States of America
+ALX	United States of America
+ALZ	United States of America
+AMA	United States of America
+AMK	United States of America
+AMN	United States of America
+AMW	United States of America
+ANA	United States of America
+ANB	United States of America
+ANC	United States of America
+AND	United States of America
+ANI	United States of America
+ANN	United States of America
+ANP	United States of America
+ANQ	United States of America
+ANV	United States of America
+ANW	United States of America
+ANY	United States of America
+AOH	United States of America
+AOO	United States of America
+AOS	United States of America
+APA	United States of America
+APC	United States of America
+APF	United States of America
+APG	United States of America
+APH	United States of America
+APN	United States of America
+APT	United States of America
+APV	United States of America
+AQQ	United States of America
+AQW	United States of America
+AQY	United States of America
+ARA	United States of America
+ARB	United States of America
+ARC	United States of America
+ARG	United States of America
+ART	United States of America
+ARV	United States of America
+ARX	United States of America
+ASE	United States of America
+ASH	United States of America
+ASL	United States of America
+ASN	United States of America
+ASQ	United States of America
+AST	United States of America
+ASX	United States of America
+ASY	United States of America
+ATE	United States of America
+ATK	United States of America
+ATL	United States of America
+ATO	United States of America
+ATS	United States of America
+ATT	United States of America
+ATU	United States of America
+ATW	United States of America
+ATY	United States of America
+AUG	United States of America
+AUK	United States of America
+AUM	United States of America
+AUN	United States of America
+AUO	United States of America
+AUS	United States of America
+AUW	United States of America
+AUZ	United States of America
+AVL	United States of America
+AVO	United States of America
+AVP	United States of America
+AVW	United States of America
+AVX	United States of America
+AWG	United States of America
+AWI	United States of America
+AWM	United States of America
+AWO	United States of America
+AXB	United States of America
+AXG	United States of America
+AXN	United States of America
+AXS	United States of America
+AXV	United States of America
+AXX	United States of America
+AYE	United States of America
+AYS	United States of America
+AYZ	United States of America
+AZO	United States of America
+BAB	United States of America
+BAD	United States of America
+BAF	United States of America
+BAM	United States of America
+BAR	United States of America
+BBB	United States of America
+BBC	United States of America
+BBD	United States of America
+BBF	United States of America
+BBW	United States of America
+BBX	United States of America
+BCB	United States of America
+BCC	United States of America
+BCE	United States of America
+BCJ	United States of America
+BCS	United States of America
+BCT	United States of America
+BDE	United States of America
+BDF	United States of America
+BDG	United States of America
+BDL	United States of America
+BDR	United States of America
+BDX	United States of America
+BDY	United States of America
+BEC	United States of America
+BED	United States of America
+BEH	United States of America
+BET	United States of America
+BFB	United States of America
+BFD	United States of America
+BFF	United States of America
+BFG	United States of America
+BFI	United States of America
+BFK	United States of America
+BFL	United States of America
+BFM	United States of America
+BFP	United States of America
+BFR	United States of America
+BFT	United States of America
+BGD	United States of America
+BGE	United States of America
+BGM	United States of America
+BGQ	United States of America
+BGR	United States of America
+BGS	United States of America
+BGT	United States of America
+BHM	United States of America
+BIC	United States of America
+BID	United States of America
+BIE	United States of America
+BIF	United States of America
+BIG	United States of America
+BIH	United States of America
+BIL	United States of America
+BIS	United States of America
+BIX	United States of America
+BJC	United States of America
+BJI	United States of America
+BJJ	United States of America
+BKC	United States of America
+BKD	United States of America
+BKE	United States of America
+BKH	United States of America
+BKL	United States of America
+BKT	United States of America
+BKV	United States of America
+BKW	United States of America
+BKX	United States of America
+BLD	United States of America
+BLF	United States of America
+BLH	United States of America
+BLI	United States of America
+BLM	United States of America
+BLU	United States of America
+BLV	United States of America
+BLW	United States of America
+BMC	United States of America
+BMG	United States of America
+BMI	United States of America
+BML	United States of America
+BMT	United States of America
+BMX	United States of America
+BNA	United States of America
+BNF	United States of America
+BNG	United States of America
+BNH	United States of America
+BNL	United States of America
+BNO	United States of America
+BNW	United States of America
+BOF	United States of America
+BOI	United States of America
+BOK	United States of America
+BOS	United States of America
+BOW	United States of America
+BPA	United States of America
+BPI	United States of America
+BPK	United States of America
+BPT	United States of America
+BQK	United States of America
+BQV	United States of America
+BRD	United States of America
+BRG	United States of America
+BRL	United States of America
+BRO	United States of America
+BRW	United States of America
+BRY	United States of America
+BSF	United States of America
+BSM	United States of America
+BSQ	United States of America
+BSW	United States of America
+BSZ	United States of America
+BTF	United States of America
+BTI	United States of America
+BTL	United States of America
+BTM	United States of America
+BTN	United States of America
+BTP	United States of America
+BTR	United States of America
+BTT	United States of America
+BTV	United States of America
+BTY	United States of America
+BUB	United States of America
+BUF	United States of America
+BUM	United States of America
+BUR	United States of America
+BVD	United States of America
+BVO	United States of America
+BVU	United States of America
+BVY	United States of America
+BWC	United States of America
+BWD	United States of America
+BWG	United States of America
+BWI	United States of America
+BWL	United States of America
+BWM	United States of America
+BWS	United States of America
+BXA	United States of America
+BXC	United States of America
+BXK	United States of America
+BXS	United States of America
+BYA	United States of America
+BYG	United States of America
+BYH	United States of America
+BYI	United States of America
+BYS	United States of America
+BYW	United States of America
+BZN	United States of America
+BZS	United States of America
+BZT	United States of America
+CAD	United States of America
+CAE	United States of America
+CAK	United States of America
+CAO	United States of America
+CAR	United States of America
+CBA	United States of America
+CBE	United States of America
+CBF	United States of America
+CBK	United States of America
+CBM	United States of America
+CBZ	United States of America
+CCA	United States of America
+CCB	United States of America
+CCD	United States of America
+CCG	United States of America
+CCR	United States of America
+CCY	United States of America
+CDB	United States of America
+CDC	United States of America
+CDH	United States of America
+CDK	United States of America
+CDL	United States of America
+CDN	United States of America
+CDR	United States of America
+CDS	United States of America
+CDV	United States of America
+CDW	United States of America
+CEA	United States of America
+CEC	United States of America
+CEF	United States of America
+CEM	United States of America
+CEU	United States of America
+CEV	United States of America
+CEW	United States of America
+CEX	United States of America
+CEY	United States of America
+CEZ	United States of America
+CFA	United States of America
+CFD	United States of America
+CFT	United States of America
+CFV	United States of America
+CGA	United States of America
+CGE	United States of America
+CGF	United States of America
+CGI	United States of America
+CGS	United States of America
+CGX	United States of America
+CGZ	United States of America
+CHA	United States of America
+CHD	United States of America
+CHI	United States of America
+CHK	United States of America
+CHL	United States of America
+CHO	United States of America
+CHP	United States of America
+CHS	United States of America
+CHU	United States of America
+CHZ	United States of America
+CIB	United States of America
+CIC	United States of America
+CID	United States of America
+CIG	United States of America
+CIK	United States of America
+CIL	United States of America
+CIN	United States of America
+CIR	United States of America
+CIU	United States of America
+CIV	United States of America
+CJN	United States of America
+CKA	United States of America
+CKB	United States of America
+CKE	United States of America
+CKK	United States of America
+CKM	United States of America
+CKN	United States of America
+CKR	United States of America
+CKU	United States of America
+CKV	United States of America
+CKX	United States of America
+CLC	United States of America
+CLD	United States of America
+CLE	United States of America
+CLG	United States of America
+CLI	United States of America
+CLK	United States of America
+CLL	United States of America
+CLM	United States of America
+CLP	United States of America
+CLR	United States of America
+CLS	United States of America
+CLT	United States of America
+CLU	United States of America
+CLW	United States of America
+CMH	United States of America
+CMI	United States of America
+CMX	United States of America
+CMY	United States of America
+CNE	United States of America
+CNH	United States of America
+CNK	United States of America
+CNM	United States of America
+CNO	United States of America
+CNU	United States of America
+CNW	United States of America
+CNY	United States of America
+COA	United States of America
+COD	United States of America
+COE	United States of America
+COF	United States of America
+COI	United States of America
+COM	United States of America
+CON	United States of America
+COP	United States of America
+COS	United States of America
+COT	United States of America
+COU	United States of America
+CPM	United States of America
+CPR	United States of America
+CPS	United States of America
+CQN	United States of America
+CQV	United States of America
+CQX	United States of America
+CRE	United States of America
+CRG	United States of America
+CRO	United States of America
+CRP	United States of America
+CRS	United States of America
+CRT	United States of America
+CRW	United States of America
+CRX	United States of America
+CSE	United States of America
+CSG	United States of America
+CSL	United States of America
+CSM	United States of America
+CSN	United States of America
+CSP	United States of America
+CSQ	United States of America
+CSV	United States of America
+CTB	United States of America
+CTH	United States of America
+CTK	United States of America
+CTO	United States of America
+CTW	United States of America
+CTX	United States of America
+CTY	United States of America
+CTZ	United States of America
+CUB	United States of America
+CUH	United States of America
+CUS	United States of America
+CUW	United States of America
+CUX	United States of America
+CVA	United States of America
+CVG	United States of America
+CVN	United States of America
+CVO	United States of America
+CVR	United States of America
+CVS	United States of America
+CWA	United States of America
+CWF	United States of America
+CWG	United States of America
+CWI	United States of America
+CWO	United States of America
+CWS	United States of America
+CXC	United States of America
+CXF	United States of America
+CXL	United States of America
+CXO	United States of America
+CYE	United States of America
+CYF	United States of America
+CYM	United States of America
+CYS	United States of America
+CYT	United States of America
+CZC	United States of America
+CZD	United States of America
+CZF	United States of America
+CZK	United States of America
+CZN	United States of America
+CZO	United States of America
+CZP	United States of America
+CZT	United States of America
+CZZ	United States of America
+DAA	United States of America
+DAB	United States of America
+DAG	United States of America
+DAL	United States of America
+DAN	United States of America
+DAY	United States of America
+DBN	United States of America
+DBQ	United States of America
+DBS	United States of America
+DCA	United States of America
+DCK	United States of America
+DCR	United States of America
+DCU	United States of America
+DDC	United States of America
+DEC	United States of America
+DEE	United States of America
+DEH	United States of America
+DEN	United States of America
+DEO	United States of America
+DEQ	United States of America
+DET	United States of America
+DFI	United States of America
+DFW	United States of America
+DGB	United States of America
+DGL	United States of America
+DGN	United States of America
+DGW	United States of America
+DHN	United States of America
+DHT	United States of America
+DIK	United States of America
+DIO	United States of America
+DIX	United States of America
+DJN	United States of America
+DKK	United States of America
+DKX	United States of America
+DLF	United States of America
+DLG	United States of America
+DLH	United States of America
+DLL	United States of America
+DLN	United States of America
+DLO	United States of America
+DLS	United States of America
+DMA	United States of America
+DMN	United States of America
+DMO	United States of America
+DMX	United States of America
+DNE	United States of America
+DNL	United States of America
+DNN	United States of America
+DNS	United States of America
+DNT	United States of America
+DNV	United States of America
+DOF	United States of America
+DOV	United States of America
+DPA	United States of America
+DPG	United States of America
+DPH	United States of America
+DRA	United States of America
+DRE	United States of America
+DRF	United States of America
+DRG	United States of America
+DRI	United States of America
+DRO	United States of America
+DRT	United States of America
+DRU	United States of America
+DSI	United States of America
+DSM	United States of America
+DSV	United States of America
+DTA	United States of America
+DTH	United States of America
+DTL	United States of America
+DTN	United States of America
+DTO	United States of America
+DTR	United States of America
+DTS	United States of America
+DTW	United States of America
+DTX	United States of America
+DUA	United States of America
+DUC	United States of America
+DUF	United States of America
+DUG	United States of America
+DUJ	United States of America
+DUT	United States of America
+DVL	United States of America
+DVN	United States of America
+DVT	United States of America
+DWF	United States of America
+DWH	United States of America
+DWN	United States of America
+DWS	United States of America
+DXR	United States of America
+DYS	United States of America
+EAA	United States of America
+EAN	United States of America
+EAR	United States of America
+EAT	United States of America
+EAU	United States of America
+EAX	United States of America
+EBR	United States of America
+EBS	United States of America
+ECA	United States of America
+ECG	United States of America
+ECP	United States of America
+ECS	United States of America
+EDA	United States of America
+EDE	United States of America
+EDF	United States of America
+EDG	United States of America
+EDK	United States of America
+EDW	United States of America
+EED	United States of America
+EEK	United States of America
+EEN	United States of America
+EEO	United States of America
+EET	United States of America
+EEW	United States of America
+EFB	United States of America
+EFC	United States of America
+EFD	United States of America
+EFK	United States of America
+EFO	United States of America
+EFW	United States of America
+EGE	United States of America
+EGI	United States of America
+EGP	United States of America
+EGV	United States of America
+EGX	United States of America
+EHM	United States of America
+EHR	United States of America
+EHT	United States of America
+EIL	United States of America
+EKA	United States of America
+EKI	United States of America
+EKM	United States of America
+EKN	United States of America
+EKO	United States of America
+EKX	United States of America
+EKY	United States of America
+ELA	United States of America
+ELD	United States of America
+ELI	United States of America
+ELK	United States of America
+ELM	United States of America
+ELN	United States of America
+ELP	United States of America
+ELV	United States of America
+ELW	United States of America
+ELY	United States of America
+ELZ	United States of America
+EMB	United States of America
+EMK	United States of America
+EMM	United States of America
+EMP	United States of America
+EMT	United States of America
+ENA	United States of America
+END	United States of America
+ENL	United States of America
+ENN	United States of America
+ENV	United States of America
+ENW	United States of America
+ENX	United States of America
+EOK	United States of America
+EOS	United States of America
+EPG	United States of America
+EPH	United States of America
+EPO	United States of America
+EPZ	United States of America
+EQY	United States of America
+ERI	United States of America
+ERO	United States of America
+ERR	United States of America
+ERV	United States of America
+ESC	United States of America
+ESD	United States of America
+ESF	United States of America
+ESN	United States of America
+ESO	United States of America
+ESP	United States of America
+EST	United States of America
+ESW	United States of America
+ESX	United States of America
+ETB	United States of America
+ETN	United States of America
+ETS	United States of America
+EUE	United States of America
+EUF	United States of America
+EUG	United States of America
+EVA	United States of America
+EVB	United States of America
+EVM	United States of America
+EVV	United States of America
+EVW	United States of America
+EWB	United States of America
+EWK	United States of America
+EWN	United States of America
+EWR	United States of America
+EWX	United States of America
+EXI	United States of America
+EYE	United States of America
+EYR	United States of America
+EYW	United States of America
+EZF	United States of America
+FAF	United States of America
+FAI	United States of America
+FAK	United States of America
+FAL	United States of America
+FAM	United States of America
+FAR	United States of America
+FAT	United States of America
+FAY	United States of America
+FBG	United States of America
+FBK	United States of America
+FBL	United States of America
+FBR	United States of America
+FBS	United States of America
+FBY	United States of America
+FCA	United States of America
+FCH	United States of America
+FCM	United States of America
+FCS	United States of America
+FCT	United States of America
+FCX	United States of America
+FCY	United States of America
+FDK	United States of America
+FDR	United States of America
+FDY	United States of America
+FEP	United States of America
+FET	United States of America
+FEW	United States of America
+FFA	United States of America
+FFC	United States of America
+FFL	United States of America
+FFM	United States of America
+FFO	United States of America
+FFT	United States of America
+FFZ	United States of America
+FHR	United States of America
+FHU	United States of America
+FID	United States of America
+FIL	United States of America
+FIT	United States of America
+FIV	United States of America
+FKL	United States of America
+FKN	United States of America
+FLA	United States of America
+FLD	United States of America
+FLE	United States of America
+FLG	United States of America
+FLJ	United States of America
+FLL	United States of America
+FLO	United States of America
+FLT	United States of America
+FLU	United States of America
+FLV	United States of America
+FLX	United States of America
+FMC	United States of America
+FME	United States of America
+FMH	United States of America
+FMN	United States of America
+FMS	United States of America
+FMY	United States of America
+FNK	United States of America
+FNL	United States of America
+FNR	United States of America
+FNT	United States of America
+FOB	United States of America
+FOD	United States of America
+FOE	United States of America
+FOK	United States of America
+FOP	United States of America
+FOX	United States of America
+FPR	United States of America
+FPY	United States of America
+FRD	United States of America
+FRG	United States of America
+FRH	United States of America
+FRI	United States of America
+FRM	United States of America
+FRN	United States of America
+FRP	United States of America
+FRR	United States of America
+FRY	United States of America
+FSD	United States of America
+FSI	United States of America
+FSK	United States of America
+FSM	United States of America
+FSN	United States of America
+FST	United States of America
+FSU	United States of America
+FSW	United States of America
+FTG	United States of America
+FTK	United States of America
+FTL	United States of America
+FTW	United States of America
+FTY	United States of America
+FUL	United States of America
+FVE	United States of America
+FVX	United States of America
+FWA	United States of America
+FWD	United States of America
+FWH	United States of America
+FWL	United States of America
+FWN	United States of America
+FXE	United States of America
+FXM	United States of America
+FXY	United States of America
+FYM	United States of America
+FYU	United States of America
+FYV	United States of America
+GAB	United States of America
+GAD	United States of America
+GAG	United States of America
+GAI	United States of America
+GAK	United States of America
+GAL	United States of America
+GAM	United States of America
+GBD	United States of America
+GBG	United States of America
+GBH	United States of America
+GBO	United States of America
+GBR	United States of America
+GCC	United States of America
+GCK	United States of America
+GCN	United States of America
+GCY	United States of America
+GDC	United States of America
+GDH	United States of America
+GDM	United States of America
+GDV	United States of America
+GDW	United States of America
+GED	United States of America
+GEG	United States of America
+GEK	United States of America
+GEY	United States of America
+GFA	United States of America
+GFB	United States of America
+GFD	United States of America
+GFK	United States of America
+GFL	United States of America
+GGB	United States of America
+GGE	United States of America
+GGG	United States of America
+GGW	United States of America
+GHM	United States of America
+GHW	United States of America
+GIF	United States of America
+GJT	United States of America
+GKN	United States of America
+GKT	United States of America
+GLD	United States of America
+GLE	United States of America
+GLH	United States of America
+GLQ	United States of America
+GLR	United States of America
+GLS	United States of America
+GLV	United States of America
+GLW	United States of America
+GMT	United States of America
+GMU	United States of America
+GMV	United States of America
+GNG	United States of America
+GNT	United States of America
+GNU	United States of America
+GNV	United States of America
+GOF	United States of America
+GOK	United States of America
+GOL	United States of America
+GON	United States of America
+GPT	United States of America
+GPZ	United States of America
+GQQ	United States of America
+GRB	United States of America
+GRD	United States of America
+GRE	United States of America
+GRF	United States of America
+GRI	United States of America
+GRK	United States of America
+GRM	United States of America
+GRN	United States of America
+GRR	United States of America
+GSB	United States of America
+GSH	United States of America
+GSO	United States of America
+GSP	United States of America
+GST	United States of America
+GTB	United States of America
+GTF	United States of America
+GTG	United States of America
+GTR	United States of America
+GTY	United States of America
+GUC	United States of America
+GUF	United States of America
+GUN	United States of America
+GUP	United States of America
+GUS	United States of America
+GUY	United States of America
+GVE	United States of America
+GVL	United States of America
+GVT	United States of America
+GVW	United States of America
+GWO	United States of America
+GWS	United States of America
+GWV	United States of America
+GXY	United States of America
+GYR	United States of America
+GYY	United States of America
+GZH	United States of America
+HAB	United States of America
+HAE	United States of America
+HAF	United States of America
+HAI	United States of America
+HAO	United States of America
+HAR	United States of America
+HAX	United States of America
+HAY	United States of America
+HBB	United States of America
+HBC	United States of America
+HBG	United States of America
+HBH	United States of America
+HBO	United States of America
+HBR	United States of America
+HCA	United States of America
+HCB	United States of America
+HCC	United States of America
+HCR	United States of America
+HCW	United States of America
+HDA	United States of America
+HDE	United States of America
+HDH	United States of America
+HDN	United States of America
+HDO	United States of America
+HDQ	United States of America
+HED	United States of America
+HEE	United States of America
+HES	United States of America
+HEY	United States of America
+HEZ	United States of America
+HFD	United States of America
+HFF	United States of America
+HGR	United States of America
+HGT	United States of America
+HGX	United States of America
+HGZ	United States of America
+HHF	United States of America
+HHH	United States of America
+HHI	United States of America
+HHR	United States of America
+HIB	United States of America
+HIE	United States of America
+HIF	United States of America
+HII	United States of America
+HIK	United States of America
+HIO	United States of America
+HKA	United States of America
+HKB	United States of America
+HKS	United States of America
+HKY	United States of America
+HLB	United States of America
+HLC	United States of America
+HLG	United States of America
+HLI	United States of America
+HLM	United States of America
+HLN	United States of America
+HLR	United States of America
+HLX	United States of America
+HMM	United States of America
+HMN	United States of America
+HMS	United States of America
+HMT	United States of America
+HNB	United States of America
+HNC	United States of America
+HNE	United States of America
+HNH	United States of America
+HNL	United States of America
+HNM	United States of America
+HNS	United States of America
+HNX	United States of America
+HOB	United States of America
+HOL	United States of America
+HOM	United States of America
+HON	United States of America
+HOP	United States of America
+HOT	United States of America
+HOU	United States of America
+HPB	United States of America
+HPN	United States of America
+HPT	United States of America
+HPV	United States of America
+HPY	United States of America
+HQM	United States of America
+HRL	United States of America
+HRO	United States of America
+HRT	United States of America
+HSB	United States of America
+HSE	United States of America
+HSH	United States of America
+HSI	United States of America
+HSL	United States of America
+HSP	United States of America
+HST	United States of America
+HSV	United States of America
+HTH	United States of America
+HTL	United States of America
+HTO	United States of America
+HTS	United States of America
+HTV	United States of America
+HTW	United States of America
+HUA	United States of America
+HUD	United States of America
+HUF	United States of America
+HUJ	United States of America
+HUL	United States of America
+HUM	United States of America
+HUS	United States of America
+HUT	United States of America
+HVE	United States of America
+HVN	United States of America
+HVR	United States of America
+HVS	United States of America
+HWD	United States of America
+HWI	United States of America
+HWO	United States of America
+HWV	United States of America
+HYA	United States of America
+HYG	United States of America
+HYL	United States of America
+HYR	United States of America
+HYS	United States of America
+HZL	United States of America
+IAB	United States of America
+IAD	United States of America
+IAG	United States of America
+IAH	United States of America
+IAN	United States of America
+ICL	United States of America
+ICT	United States of America
+ICY	United States of America
+IDA	United States of America
+IDG	United States of America
+IDI	United States of America
+IDP	United States of America
+IEN	United States of America
+IFA	United States of America
+IFP	United States of America
+IGC	United States of America
+IGG	United States of America
+IGM	United States of America
+IGX	United States of America
+IJD	United States of America
+IJX	United States of America
+IKB	United States of America
+IKK	United States of America
+IKO	United States of America
+IKR	United States of America
+ILE	United States of America
+ILG	United States of America
+ILI	United States of America
+ILL	United States of America
+ILM	United States of America
+ILN	United States of America
+IML	United States of America
+IMM	United States of America
+IMT	United States of America
+IND	United States of America
+INK	United States of America
+INL	United States of America
+INR	United States of America
+INS	United States of America
+INT	United States of America
+INW	United States of America
+IOW	United States of America
+IPL	United States of America
+IPT	United States of America
+IRB	United States of America
+IRC	United States of America
+IRK	United States of America
+IRS	United States of America
+ISL	United States of America
+ISM	United States of America
+ISN	United States of America
+ISO	United States of America
+ISP	United States of America
+ISQ	United States of America
+ISS	United States of America
+ISW	United States of America
+ITH	United States of America
+ITO	United States of America
+IVH	United States of America
+IWA	United States of America
+IWD	United States of America
+IWI	United States of America
+IWS	United States of America
+IYK	United States of America
+IZG	United States of America
+JAC	United States of America
+JAE	United States of America
+JAJ	United States of America
+JAN	United States of America
+JAO	United States of America
+JAS	United States of America
+JAX	United States of America
+JBC	United States of America
+JBK	United States of America
+JBP	United States of America
+JBR	United States of America
+JBS	United States of America
+JBT	United States of America
+JCC	United States of America
+JCE	United States of America
+JCI	United States of America
+JCT	United States of America
+JCX	United States of America
+JCY	United States of America
+JDM	United States of America
+JDN	United States of America
+JDT	United States of America
+JDX	United States of America
+JDY	United States of America
+JEF	United States of America
+JEM	United States of America
+JFK	United States of America
+JFN	United States of America
+JGC	United States of America
+JGL	United States of America
+JGP	United States of America
+JGQ	United States of America
+JGX	United States of America
+JHC	United States of America
+JHM	United States of America
+JHW	United States of America
+JHY	United States of America
+JI0	United States of America
+JID	United States of America
+JKL	United States of America
+JKV	United States of America
+JLA	United States of America
+JLB	United States of America
+JLH	United States of America
+JLN	United States of America
+JLX	United States of America
+JMA	United States of America
+JMC	United States of America
+JMD	United States of America
+JMH	United States of America
+JMN	United States of America
+JMS	United States of America
+JNH	United States of America
+JNP	United States of America
+JNU	United States of America
+JNW	United States of America
+JOB	United States of America
+JOC	United States of America
+JOR	United States of America
+JOT	United States of America
+JPD	United States of America
+JPN	United States of America
+JPT	United States of America
+JRA	United States of America
+JRB	United States of America
+JRC	United States of America
+JRD	United States of America
+JRE	United States of America
+JSD	United States of America
+JSG	United States of America
+JSK	United States of America
+JSL	United States of America
+JSN	United States of America
+JST	United States of America
+JTO	United States of America
+JUC	United States of America
+JUP	United States of America
+JVI	United States of America
+JVL	United States of America
+JWC	United States of America
+JWH	United States of America
+JWL	United States of America
+JWX	United States of America
+JXN	United States of America
+JYO	United States of America
+ATI	Uruguay
+BUV	Uruguay
+CYR	Uruguay
+DZO	Uruguay
+AZN	Uzbekistan
+BHK	Uzbekistan
+FEG	Uzbekistan
+AUY	Vanuatu
+AWD	Vanuatu
+CCV	Vanuatu
+DLY	Vanuatu
+EAE	Vanuatu
+EPI	Vanuatu
+FTA	Vanuatu
+GBA	Vanuatu
+IPA	Vanuatu
+AAO	Venezuela
+AGV	Venezuela
+BLA	Venezuela
+BNS	Venezuela
+BRM	Venezuela
+CAJ	Venezuela
+CBL	Venezuela
+CBS	Venezuela
+CCS	Venezuela
+CGU	Venezuela
+CLZ	Venezuela
+CUM	Venezuela
+CUP	Venezuela
+CUV	Venezuela
+CXA	Venezuela
+CZE	Venezuela
+ELX	Venezuela
+EOR	Venezuela
+EOZ	Venezuela
+GDO	Venezuela
+GUI	Venezuela
+GUQ	Venezuela
+ICA	Venezuela
+BMV	Vietnam
+CAH	Vietnam
+CSJ	Vietnam
+DAD	Vietnam
+DIN	Vietnam
+DLI	Vietnam
+HAN	Vietnam
+HBN	Vietnam
+HOO	Vietnam
+HPH	Vietnam
+HUI	Vietnam
+EIS	Virgin Islands (British)
+JCD	Virgin Islands (US)
+AWK	Wake/Midway Islands
+JON	Wake/Midway Islands
+FUT	Wallis and Futuna Islands
+AAY	Yemen
+ADE	Yemen
+AJO	Yemen
+AXK	Yemen
+BHN	Yemen
+BUK	Yemen
+BYD	Yemen
+DAH	Yemen
+DHL	Yemen
+DMR	Yemen
+EAB	Yemen
+GXF	Yemen
+HOD	Yemen
+IHN	Yemen
+BBZ	Zambia
+CGJ	Zambia
+CIP	Zambia
+BFO	Zimbabwe
+BUQ	Zimbabwe
+BZH	Zimbabwe
+CHJ	Zimbabwe
+GWE	Zimbabwe
+HRE	Zimbabwe
+HWN	Zimbabwe
